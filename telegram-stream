@@ -1,0 +1,1 @@
+ffmpeg -i "https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8" -c copy -f flv "rtmps://dc4-1.rtmp.t.me/s/2604614524:bYbs-yPLXJIiQQwb0E8dCw"
